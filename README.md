@@ -4,7 +4,7 @@
 
 # Saloni Pawar
 
-- **Email:** salonipawar3@gmail.com
+- **Email:** salonipawar3@gmail.com ![Email](https://img.icons8.com/material-rounded/24/000000/email.png)
 
 ## Summary
 
@@ -12,7 +12,7 @@ Detail-oriented Software Developer with 2-year background in software design and
 
 ## Experience
 
-### Junior Software Developer
+### Junior Software Developer ![Experience](https://img.icons8.com/material-rounded/24/000000/work.png)
 **PMAM IT Service Private Limited** - Mumbai, Maharashtra  
 *(08/2021 - 05/2023)*
 
@@ -23,7 +23,7 @@ Detail-oriented Software Developer with 2-year background in software design and
 - Designed user-friendly software interfaces to simplify overall management.
 - Tackled development tasks based on system requirements and documented approaches.
 
-### Social Media Marketing Intern
+### Social Media Marketing Intern ![Experience](https://img.icons8.com/material-rounded/24/000000/work.png)
 **Perfect Engineers & Contractors** - Mumbai, Maharashtra  
 *(04/2020 - 05/2020)*
 
@@ -36,23 +36,23 @@ Detail-oriented Software Developer with 2-year background in software design and
 
 - **Humber College**  
   *Web-Development*  
-  (2023 - 2024)
+  (2023 - 2024) ![Education](https://img.icons8.com/material-rounded/24/000000/student-center.png)
 
 - **NCRD’s Sterling Institute of Management Studies**  
   *Master in Computer Application*  
-  (2020 - 2022)
+  (2020 - 2022) ![Education](https://img.icons8.com/material-rounded/24/000000/student-center.png)
 
 - **Dr. BMN College of Home Science**  
   *Bachelor of Computer Application*  
-  (2017 - 2020)
+  (2017 - 2020) ![Education](https://img.icons8.com/material-rounded/24/000000/student-center.png)
 
 - **JVM’s Junior College**  
   *Higher Secondary School Certificate*  
-  (2015 - 2017)
+  (2015 - 2017) ![Education](https://img.icons8.com/material-rounded/24/000000/student-center.png)
 
 - **New Horizon Public School**  
   *Secondary School Certificate*  
-  (2015)
+  (2015) ![Education](https://img.icons8.com/material-rounded/24/000000/student-center.png)
 
 ## Key Skills
 
